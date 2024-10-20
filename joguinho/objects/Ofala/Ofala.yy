@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Oinimigo1",
+  "%Name":"Ofala",
   "eventList":[],
   "managed":true,
-  "name":"Oinimigo1",
+  "name":"Ofala",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"ObjetosCalculo",
+    "path":"folders/ObjetosCalculo.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite4",
+    "path":"sprites/Sprite4/Sprite4.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

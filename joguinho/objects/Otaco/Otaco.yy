@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Staco",
-    "path":"sprites/Staco/Staco.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,18 +1,22 @@
 {
   "FolderOrderSettings":[
     {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"ObjetosCalculo","order":15,"path":"folders/ObjetosCalculo.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"SpritesCalculo","order":11,"path":"folders/SpritesCalculo.yy",},
+    {"name":"SpritesComputação","order":12,"path":"folders/SpritesComputação.yy",},
+    {"name":"SpritesWeb","order":13,"path":"folders/SpritesWeb.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Ofala","order":1,"path":"objects/Ofala/Ofala.yy",},
     {"name":"Oinimigo1","order":1,"path":"objects/Oinimigo1/Oinimigo1.yy",},
     {"name":"Otaco","order":2,"path":"objects/Otaco/Otaco.yy",},
-    {"name":"Sinimigo1","order":4,"path":"sprites/Sinimigo1/Sinimigo1.yy",},
-    {"name":"Splayer_correndo","order":5,"path":"sprites/Splayer_correndo/Splayer_correndo.yy",},
-    {"name":"Splayer","order":2,"path":"sprites/Splayer/Splayer.yy",},
-    {"name":"Staco","order":3,"path":"sprites/Staco/Staco.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"SprofeCalculo_1","order":2,"path":"sprites/SprofeCalculo_1/SprofeCalculo_1.yy",},
+    {"name":"SprofeCalculo","order":1,"path":"sprites/SprofeCalculo/SprofeCalculo.yy",},
   ],
 }
