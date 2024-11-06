@@ -1,5 +1,0 @@
-1º) O projeto foi iniciado com a criação de alguns poucos sprites e animações, além de alguns testes basicos de script para o jogo principal do site.
-
-2º) Todos os sprites do jogo foram trocados, entretanto, estão apenas no começo da produção.
-
-3º) A produção do esqueleto do site foi iniciada em paralelo com a produção do jogo principal, inicialmente com barra de pesquisa (ainda não funcional) e um texto placeholder.

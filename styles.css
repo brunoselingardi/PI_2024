@@ -1,21 +1,23 @@
+main {
+    padding: 0px;
+    margin: 250px;
+    text-align: left;
+    color: black;
+}
 
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: #e6e6e6;
     line-height: 1.6;
     text-align: center;
     font-size: 150%;
-    color: #c9e063;
-    background-image: url("ovo.png");
-    background-repeat: repeat;
-    
-        
+    color: #c9e063;  
 }
-    .header {
+header {
         background-color: #c0b9b9;
-        color: rgb(24, 20, 20);
+        color: #c9e063;
         padding: 10px 0;
         text-align: center;
 } 
@@ -43,3 +45,4 @@ body {
     margin-left: 5px;
     }
 }
+
