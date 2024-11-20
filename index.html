@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Home</title>
+    <script src="beleza.js"></script>
+    <script src="pesquisa.js"></script>
+    <title>Victorious Joystick</title>
 </head>
 <body>
     <header>
@@ -12,16 +14,16 @@
     </header>
 
     <div class="pesquisa">
-            <form action="/search" method="GET" class="pesquisa-form">
-            <input type="search" name="query" placeholder="Buscar..." class="busca-form">
-            <button type="submit" class="busca-button">Pesquisar</button>
-          </form>
+        <form class="pesquisa-form" onsubmit="return false;">
+            <input type="search" id="search-bar" placeholder="Buscar..." class="busca-form">
+            <button type="button" id="search-btn" class="busca-button">Pesquisar</button>
+        </form>
     </div>
 
 <main>
     <div class="game-container">
         <div class="game-title">Dragon run</div>
-        <a href="Jogos/DragonRun/index.html" target="_blank">Abrir Jogo</a>
+        <a href="Jogos/DragonRun/index.html" target="_blank" ><img src="Jogos/DragonRun/icone-DR.jpg" alt="IconeDR"></a>
     </div>
 </main>
     

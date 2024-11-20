@@ -2,47 +2,78 @@ main {
     padding: 0px;
     margin: 250px;
     text-align: left;
+    font-size: 25px;
     color: black;
+    img{
+        width: 30%;
+        height: 30%;
+    }
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', Arial, sans-serif;
     margin: 0;
-    padding: 20px;
-    background-color: #e6e6e6;
+    padding: 0;
+    background: linear-gradient(135deg, #6a5acd, #0d0b1a);
+    color: #f8f8ff;
     line-height: 1.6;
-    text-align: center;
-    font-size: 150%;
-    color: #c9e063;  
+    text-align: center; 
 }
 header {
-        background-color: #c0b9b9;
-        color: #c9e063;
-        padding: 10px 0;
-        text-align: center;
+    background: #3d3a55;
+    color: #f8f8ff;
+    padding: 1px;
+    font-size: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 } 
 
-.pesquisa {
-    .pesquisa-form {
+.pesquisa-form {
+    margin: 20px auto;
     display: flex;
     justify-content: center;
-    align-items: center;
-    }
-    .busca-form {
-    width: 70%;
-    padding: 8px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    }
-    .busca-button {
-    padding: 8px 12px;
-    background-color: #c9e063;
-    color: white;
+}
+
+.pesquisa-form input {
+    width: 60%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #7a6ad5;
+    border-radius: 8px;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+
+.pesquisa-form input:focus {
+    border-color: #483d8b;
+    outline: none;
+    box-shadow: 0 0 8px #483d8b;
+}
+
+
+.pesquisa-form button {
+    background: #7a6ad5;
+    color: #fff;
     border: none;
-    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 8px;
     cursor: pointer;
-    margin-left: 5px;
-    }
+    transition: 0.3s;
+}
+
+.pesquisa-form button:hover {
+    background: #483d8b;
+}
+
+main img {
+    width: 0%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+main img:hover {
+    transform: scale(1.05);
 }
 
