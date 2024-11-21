@@ -1,0 +1,35 @@
+/* Reset para garantir consistência */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Configuração do body */
+body {
+    font-family: 'Arial', sans-serif; /* Fonte consistente */
+    background-color: #47435c; /* Cor de fundo do site original */
+    color: #7a6ad5; /* Cor padrão do texto */
+    display: flex; /* Centraliza o conteúdo */
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    height: 100vh; /* Ocupa a altura inteira da tela */
+    overflow: hidden; /* Remove barras de rolagem */
+}
+
+/* Ajustes na tela do jogo (canvas ou elementos principais) */
+canvas, img {
+    display: block; /* Remove espaçamentos indesejados */
+    max-width: 100%; /* Impede que a tela ultrapasse o espaço disponível */
+    height: auto; /* Mantém proporções */
+    border: 5px solid #7a6ad5; /* Moldura para destacar a tela do jogo */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5); /* Adiciona sombra */
+}
+
+/* Configuração para texto, caso necessário */
+h1, p {
+    text-align: center;
+    color: #ffffff;
+    margin: 10px;
+}
