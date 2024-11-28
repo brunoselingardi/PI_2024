@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #6a5acd, #0d0b1a); 
+    color: #f8f8ff;
+    line-height: 1.6;
+    text-align: center;
+}
+
+header {
+    background: #3d3a55; 
+    color: #f8f8ff;
+    padding: 10px 20px;
+    font-size: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header img {
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+    vertical-align: middle;
+}
+
+header h1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    font-size: 2rem;
+}
+
+main {
+    text-align: center;
+    padding: 50px 20px;
+    margin: auto;
+    max-width: 800px; 
+    text-align: left; 
+}
+
+main h2 {
+    font-size: 1.8rem;
+    color: #7a6ad5;
+    margin-bottom: 20px;
+}
+
+main p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #3d3a55; 
+    color: #f8f8ff; 
+    padding: 20px 0; 
+    margin-bottom: 0px;
+    text-align: center; 
+    font-size: 0.9rem; 
+    margin-top: 100px; 
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+.footer-link {
+    color: #7a6ad5; 
+    text-decoration: none; 
+    margin: 0 5px; 
+    transition: color 0.3s; 
+}
+
+.footer-link:hover {
+    color: #483d8b; 
+    text-decoration: underline; 
+}

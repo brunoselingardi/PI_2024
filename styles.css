@@ -1,9 +1,14 @@
 main {
-    padding: 0px;
-    margin: 250px;
+    padding: 100px;
+
+    margin-top: 1px;
     text-align: left;
     font-size: 25px;
     color: black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
     img{
         width: 30%;
         height: 30%;
@@ -20,12 +25,19 @@ body {
     text-align: center; 
 }
 header {
+    display: flex;
+    justify-content: center;
     background: #3d3a55;
     color: #f8f8ff;
-    padding: 1px;
+    padding: 10px 20px;
     font-size: 2rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 } 
+
+header img {
+    width: 200px; 
+    height: 200px; 
+}
 
 .pesquisa-form {
     margin: 20px auto;
@@ -77,5 +89,29 @@ main img:hover {
     transform: scale(1.05);
 }
 
+footer {
+    background: #3d3a55; 
+    color: #f8f8ff; 
+    padding: 20px 0; 
+    text-align: center; 
+    font-size: 0.9rem; 
+    margin-top: 50px; 
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+.footer-link {
+    color: #7a6ad5; 
+    text-decoration: none; 
+    margin: 0 5px; 
+    transition: color 0.3s; 
+}
+
+.footer-link:hover {
+    color: #483d8b; 
+    text-decoration: underline; 
+}
 
 
