@@ -1,6 +1,8 @@
 # PI_2024
 hub de jogos
 
+github: https://github.com/brunoselingardi/PI_2024
+
 trello: https://trello.com/b/9sTX8wYh/projeto-integrador
 
 site: https://victorious-joystick.web.app
@@ -29,5 +31,15 @@ O tema do projeto foi escolhido como sendo um HUB de jogos por conta de um desej
 
 Wireframes:
 
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/wire%20config.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/wire%20lvl.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/wire%20menu.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/wire%20site.png?raw=true)
 
 
+Imagens atuais:
+
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/Captura%20de%20tela%202024-12-10%20151501.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/Captura%20de%20tela%202024-12-10%20151541.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/Captura%20de%20tela%202024-12-10%20151640.png?raw=true)
+![image alt](https://github.com/brunoselingardi/PI_2024/blob/main/README_images/Captura%20de%20tela%202024-12-10%20151605.png?raw=true)
